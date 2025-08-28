@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&random=false&width=600&lines=▹+Welcome+to+my+GitHub!+👋;▹+Eu+sou+Igor+Koehler,+Estudante+de+Programação+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=%E2%96%B9+Welcome+to+my+GitHub!+%F0%9F%91%8B;%E2%96%B9+Eu+sou+Igor+Koehler%2C+Estudante+de+Programa%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 
@@ -87,15 +87,3 @@ Sou motivado pela curiosidade em aprender novas tecnologias, gosto de transforma
 ---
 
 <p align="center">✨ "A tecnologia move o mundo" – Steve Jobs ✨</p>
-
-##
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorKoehler15/IgorKoehler15/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorKoehler15/IgorKoehler15/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/IgorKoehler15/SEU-REPOSITORIO/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
-
