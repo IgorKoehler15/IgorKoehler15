@@ -12,9 +12,10 @@
 ---
 
 <p>
-🎓 Estudante de <b>Sistemas da Informação</b>, após ter migrado da área de Engenharia Elétrica para seguir minha paixão pela tecnologia.  
-💻 Formado no curso técnico de <b>Informática para Internet</b> pelo SENAI Sul Joinville.  
-🚀 Atualmente participo da qualificação <b>FuturoDEV</b>, dentro do programa <b>Joinville Mais TEC</b>, oferecido pelo <b>LAB 365 (SENAI)</b>.  
+🎓 Estudante de <b>Sistemas da Informação</b>, após ter migrado da área de Engenharia Elétrica para seguir minha paixão pela tecnologia. <br/>
+🧰 Atualmente estou fazendo meu estágio como Product Developer na SoftExpert (2026). <br/>
+💻 Formado no curso técnico de <b>Informática para Internet</b> pelo SENAI Sul Joinville. <br/>
+🚀 Qualificação pelo curso <b>FuturoDEV</b>, dentro do programa <b>Joinville Mais TEC</b>, oferecido pelo <b>LAB 365 (SENAI)</b> no ano de 2025.  
 
 Sou motivado pela curiosidade em aprender novas tecnologias, gosto de transformar ideias em soluções funcionais e busco constantemente evoluir como desenvolvedor.
 </p>
@@ -22,16 +23,18 @@ Sou motivado pela curiosidade em aprender novas tecnologias, gosto de transforma
 ---
 
 ## ⚡ My Stack:
-<div style="display: inline_block"><br>
-  <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="logo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="logo-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="logo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="logo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="30"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="30"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" height="30"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="30"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30"/> &nbsp;
+</p>
 
 ---
 
