@@ -74,8 +74,8 @@ Sou motivado pela curiosidade em aprender novas tecnologias, gosto de transforma
 ## 🌱 Sobre mim
 - 📚 Sempre aprendendo e explorando novas tecnologias.  
 - 🏆 Experiência em desenvolvimento front-end com **HTML, CSS, JavaScript e React**.  
-- ⚡ Interesse crescente em back-end, **Java, Banco de Dados, Node.js e APIs**.  
-- 🔎 Busco oportunidades como **desenvolvedor júnior** para aplicar e expandir meus conhecimentos.  
+- ⚡ Interesse crescente em back-end, **Java, PHP, Banco de Dados, Node.js e APIs**.  
+- 🔎 Atualmente, fazendo meu estágio de Desenvolvedor de Produtos na SoftExpert.  
 
 ---
 
@@ -88,7 +88,6 @@ Sou motivado pela curiosidade em aprender novas tecnologias, gosto de transforma
   <a href="https://www.linkedin.com/in/igor-koehler/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-
   <a href="https://github.com/IgorKoehler15" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
   </a> 
